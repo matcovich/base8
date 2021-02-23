@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec0cc687-ef9c-4b4f-b648-f1aad1c877ce" name="Default Changelist" comment="" />
+    <list default="true" id="ec0cc687-ef9c-4b4f-b648-f1aad1c877ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/action-message.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/action-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/application-logo.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/application-mark.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/authentication-card-logo.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/authentication-card.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/banner.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/button.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/checkbox.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/confirmation-modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/confirms-password.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/danger-button.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/dialog-modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/dropdown-link.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/dropdown.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/form-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/input-error.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/input.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/label.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/nav-link.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/responsive-nav-link.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/secondary-button.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/section-border.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/section-title.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/switchable-team.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/validation-errors.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/components/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vendor/jetstream/mail/team-invitation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -151,6 +185,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="LaravelIdea.Settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -167,11 +202,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613949423222</updated>
-      <workItem from="1613949424565" duration="3044000" />
+      <workItem from="1613949424565" duration="3232000" />
+      <workItem from="1614035451539" duration="135000" />
+      <workItem from="1614035598247" duration="495000" />
+      <workItem from="1614036107806" duration="1169000" />
+      <workItem from="1614044703205" duration="28000" />
+      <workItem from="1614044740536" duration="1925000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="190" key="SettingsEditor" timestamp="1614092202595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614092202595" />
   </component>
 </project>
